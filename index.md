@@ -45,6 +45,6 @@ These are the students that helped me while working in this lab assignment.\
 - JianFeng
 
 Future task check list\
-[x] Finish lab1.\
-[ ] Finish this course with an A.\
-[ ] become a successful programmer.
+-[x] Finish lab1.
+-[ ] Finish this course with an A.
+-[ ] become a successful programmer.
