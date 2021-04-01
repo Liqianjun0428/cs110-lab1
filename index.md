@@ -47,4 +47,4 @@ These are the students that helped me while working in this lab assignment.\
 Future task check list\
 [x] Finish lab1.\
 [ ] Finish this course with an A.\
-[ ] become a successful programmer.\
+[ ] become a successful programmer.
